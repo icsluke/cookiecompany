@@ -1,0 +1,45 @@
+.subcat-title {
+  color: #714e46 !important
+  margin: 0;
+  padding: .3em;
+  position: absolute;
+  bottom: 0;
+  margin-bottom: -2px;
+  width: 100%;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.3em;
+  transition: background-color 0.6s ease-out;
+  background-color: #ede8d9;
+  z-index: 1;
+  display: block;
+}
+
+.footer-background {
+  background: #c0d5cd;
+  text-align: left;
+  color: #FFF;
+  margin: 0;
+  padding: 30px 0;
+}
+
+.ui-four-column-grid-container {
+  font-size: 1.1em;
+}
+
+.large.text {
+  font-size: 1.3em;
+  margin-bottom: 5px;
+}
+
+.white-icons {
+  color: white; !important;
+}
+
+.margin-20 {
+  margin: 20px;
+}
+
+.footer {
+  margin-top: 50px;
+}
